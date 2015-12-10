@@ -1,0 +1,28 @@
+name: Stark Lee
+favicon: null
+layout_spectrum: 0.6725672869943082
+typography_spectrum: 0.8479553395882249
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7078335229307413
+  lightness: 0.31729894666932523
+  saturation: 0.06054930342361331
+  rhythmicContrast: 0.46153060672804713
+purpose: []
